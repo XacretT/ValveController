@@ -1,7 +1,10 @@
 # ValveController
 
 ##Hi
-If you need my **valvecontroller code** or **valve controler** - contact me
+If you need my **valvecontroller code** or **valve controler** for aeroponic system - contact me
+
+##Приветствую
+Если Вы здесь, то Вам нужен **код управления** или **контроллеры полива** для аэропонной системы - свяжитесь
 
 Moscow, Belozerovo, Kvartal 2, Uchastok 1
 
